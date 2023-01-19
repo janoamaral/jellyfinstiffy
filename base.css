@@ -1,6 +1,6 @@
 :root {--indicator:30, 215, 96;}
 :root {--selection: 30, 215, 96;}
-:root {--accent: 30, 215, 96;}
+:root {--accent: #1DB954;}
 
 .emby-textarea {
   font-family: monospace;
